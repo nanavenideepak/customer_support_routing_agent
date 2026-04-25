@@ -6,9 +6,9 @@
 - Custom branding available for orders above 100 units
 
 ## Point of Contact for Large Orders
-- Name: Vikram Anand (Senior Sales Manager)
-- Email: vikram.anand@technest.in
-- Phone: +91-98765-43210
+- Name: Deepak Yadav (Senior Sales Manager)
+- Email: deepak.yadav@lucidz.com
+- Phone: +91 9876543210
 - Available: Monday to Friday, 10 AM to 6 PM
 
 ## How to Place a Bulk Order
